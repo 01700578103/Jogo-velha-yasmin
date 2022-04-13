@@ -3,7 +3,7 @@
 
 jogo da velha a base de html css e javascript
 
-##Tecnologias utilizadas## 
+## Tecnologias utilizadas
 
 **HTML** : Estrutura do cite.
 
@@ -12,7 +12,7 @@ jogo da velha a base de html css e javascript
 **JS** : Responsavel por ver quais campos foram marcados e marcar ponto para o jogador vencedor, e alertar o vencedor 
 
 
-##Melhorias## 
+## Melhorias
 
 1. [x] Subir no git.
 
